@@ -34,15 +34,6 @@
   #container {
     height: 100% !important;
   }
-  .BMapLib_Drawing{
-    width: 391px;
-    height: 49px;
-  }
-  .BMapLib_Drawing_panel .BMapLib_box{
-    width: 65px;
-    height:47px;
-    background-image: url(http://api.map.baidu.com/library/DrawingManager/1.4/src/bg_drawing_tool.png);
-    cursor: pointer;
-  }
+
 
 </style>
